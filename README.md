@@ -1,4 +1,4 @@
-Stealth startup code monkey.
+Always writing.
 <!--
 **kyung-min-sun/kyung-min-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
