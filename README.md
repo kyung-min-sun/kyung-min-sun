@@ -1,6 +1,3 @@
-
-[![Kevin's GitHub stats](https://github-readme-stats-aadugul0a-kyung-min-sun.vercel.app/api?username=kyung-min-sun)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **kyung-min-sun/kyung-min-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
