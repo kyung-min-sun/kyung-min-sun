@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyung-min-sun)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kyung-min-sun/kyung-min-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
