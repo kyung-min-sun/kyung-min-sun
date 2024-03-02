@@ -1,7 +1,5 @@
 Always writing.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kyung-min-sun)](https://git.io/streak-stats)
-
 <!--
 **kyung-min-sun/kyung-min-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
